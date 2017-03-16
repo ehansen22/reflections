@@ -5,3 +5,15 @@ When you initialize a repository, git starts tracking the history of a directory
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 Staging area contains the changed files ready to be committed.  Repository contains the committed changes.  Working directory is the current folder that contains files that can be added to staging for committing to repository.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+You can investigate staging area and only commit the changes that represent a single logical change.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Developing new experimental features.  Moving on to a different piece of work.  Context switching.  Correct a bug.  Create a feature.  Collaborate with yourself.  
+
+How do the diagrams help you visualize the branch structure?
+
+Helps you see which commits are related (linearly aligned) and which belong to new branches.
