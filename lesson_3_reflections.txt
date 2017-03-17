@@ -1,1 +1,5 @@
 Lesson 3 reflections:
+
+When would you want to use a remote repository rather than keeping all your work local?
+
+When you want to work collaboratively with others or if you want a non-local backup of your work.
